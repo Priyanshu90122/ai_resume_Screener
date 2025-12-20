@@ -62,9 +62,9 @@ export GEMINI_API_KEY="your_api_key_here"
 - Run Locally
 python -m streamlit run frontend.py
 
-- Explainable AI
-Each decision includes:
-Skill match status
-AI-generated justification
-Transparent reasoning path across graph nodes
-This avoids black-box predictions and aligns with responsible AI principles.
+#  Explainable AI
+- Each decision includes:
+- Skill match status
+- AI-generated justification
+- Transparent reasoning path across graph nodes
+- This avoids black-box predictions and aligns with responsible AI principles.
